@@ -362,11 +362,11 @@ CM_ "toyota_corolla_2017_pt.dbc starts here"
 
 
 
-BO_ 548 BRAKE_MODULE: 8 XXX
+BO_ 705 BRAKE_MODULE: 8 XXX
  SG_ BRAKE_PRESSURE : 43|12@0+ (1,0) [0|4047] "" XXX
  SG_ BRAKE_PRESSED : 5|1@0+ (1,0) [0|1] "" XXX
 
-BO_ 705 GAS_PEDAL: 8 XXX
+BO_ 548 GAS_PEDAL: 8 XXX
  SG_ GAS_RELEASED : 3|1@0+ (1,0) [0|1] "" XXX
  SG_ GAS_PEDAL : 55|8@0+ (0.005,0) [0|1] "" XXX
 
